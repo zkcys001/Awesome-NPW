@@ -18,7 +18,7 @@ This is a repository for organizing articles related to nerual pathways. Most pa
 ## Table of Contents (ongoing)
 
 - [1. Statistics](#1-statistics)
-- [2. Survey](#2-survey)
+- [2. PATHWAYS](#2-PATHWAYS)
 - [3. Papers](#3-papers)
 
 ---
@@ -41,23 +41,18 @@ This is a repository for organizing articles related to nerual pathways. Most pa
 
 ---
 
-## 2. Survey
+## 2. PATHWAYS
 
-<!-- > #### 1) *"Beyond Intra-modality: A Survey of Heterogeneous Person Re-identification"*, IJCAI 2020 [[paper](https://arxiv.org/abs/1905.10048)] [[github](https://github.com/lightChaserX/Awesome-Hetero-reID)]
-> #### 2) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 [[paper](https://arxiv.org/abs/2001.04193)] [[github](https://github.com/mangye16/ReID-Survey)]
-> #### 3) *"Person search: New paradigm of person re-identification: A survey and outlook of recent works"*, Image and Vision Computing 2020 [[paper](https://www.sciencedirect.com/science/article/pii/S0262885620301025)]
-> #### 4) *"A Survey of Open-World Person Re-identification"*, TCSVT 2019, [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8640834)]
-> #### 5) *"Person Re-identification: Past, Present and Future"*, arXiv 2016 [[paper](https://arxiv.org/pdf/1610.02984.pdf)]
-> #### 6) *"A survey of approaches and trends in person re-identification"*, Image and Vision Computing 2014 [[paper](https://ac.els-cdn.com/S0262885614000262/1-s2.0-S0262885614000262-main.pdf?_tid=de6eee6c-08e6-486c-9d7a-18d2e0c30091&acdnat=1539565884_afc3e4f2e7068a620c9fbfde6129d35d)]
-> #### 7) *"Appearance Descriptors for Person Re-identification: a Comprehensive Review"*, arXiv 2013 [[paper](https://arxiv.org/abs/1307.5748)] -->
+> #### 1) *"PATHWAYS: ASYNCHRONOUS DISTRIBUTED DATAFLOW FOR ML"*, [[paper](https://arxiv.org/pdf/2203.12533.pdf)] 
+
 
 
 ---
 
 ## 3. Papers
 
-> #### 1) *"Are Neural Nets Modular? Inspecting Functional Modularity Through Differentiable Weight Masks",ICLR 2021.* [[paper](https://arxiv.org/abs/2010.02066)][[code](https://github.com/RobertCsordas/modules)][[poster](https://people.idsia.ch/~csordas/poster_iclr2021.pdf)]
-> #### 2) *"Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?" ICML 2021.* [[paper](https://arxiv.org/pdf/2106.02890.pdf)]
+> #### 1) *"Are Neural Nets Modular? Inspecting Functional Modularity Through Differentiable Weight Masks", ICLR 2021.* [[paper](https://arxiv.org/abs/2010.02066)][[code](https://github.com/RobertCsordas/modules)][[poster](https://people.idsia.ch/~csordas/poster_iclr2021.pdf)]
+> #### 2) *"Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?", ICML 2021.* [[paper](https://arxiv.org/pdf/2106.02890.pdf)]
 
 ## Search keyword
 
