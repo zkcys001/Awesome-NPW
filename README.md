@@ -56,9 +56,8 @@ This is a repository for organizing articles related to nerual pathways. Most pa
 
 ## 3. Papers
 
-> #### 1) *"Cross-Modality Person Re-Identification via Modality Confusion and Center Aggregation"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Hao_Cross-Modality_Person_Re-Identification_via_Modality_Confusion_and_Center_Aggregation_ICCV_2021_paper.pdf)]
-
-
+> #### 1) *"Are Neural Nets Modular? Inspecting Functional Modularity Through Differentiable Weight Masks",ICLR 2021.* [[paper](https://arxiv.org/abs/2010.02066)][[code](https://github.com/RobertCsordas/modules)][[poster](https://people.idsia.ch/~csordas/poster_iclr2021.pdf)]
+> #### 2) *"Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?" ICML 2021.* [[paper](https://arxiv.org/pdf/2106.02890.pdf)]
 
 ## Search keyword
 
