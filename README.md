@@ -53,6 +53,10 @@ This is a repository for organizing articles related to nerual pathways. Most pa
 
 > #### 1) *"Are Neural Nets Modular? Inspecting Functional Modularity Through Differentiable Weight Masks", ICLR 2021.* [[paper](https://arxiv.org/abs/2010.02066)][[code](https://github.com/RobertCsordas/modules)][[poster](https://people.idsia.ch/~csordas/poster_iclr2021.pdf)]
 > #### 2) *"Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?", ICML 2021.* [[paper](https://arxiv.org/pdf/2106.02890.pdf)]
+> #### 3) *"DATA: Domain-Aware and Task-Aware Self-supervised Learning", CVPR 2022.* [[paper](https://arxiv.org/pdf/2203.09041.pdf)][[code](https://github.com/GAIA-vision/GAIA-ssl)]
+> #### 4) *"Mitigating Forgetting in Online Continual Learning via Instance-Aware Parameterization", NIPS 2020.* [[paper](https://proceedings.neurips.cc/paper/2020/file/ca4b5656b7e193e6bb9064c672ac8dce-Paper.pdf)][[code](https://github.com/andyqmongo/InstAParam)]
+> #### 5) *"Dynamic Group Convolution for Accelerating Convolutional Neural Networks", ECCV 2020*[[paper](https://arxiv.org/pdf/2007.04242.pdf)][[code](https://github.com/zhuogege1943/dgc)]
+> #### 6) *"Slimmable neural networks"*[[paper]()]
 
 ## Search keyword
 
