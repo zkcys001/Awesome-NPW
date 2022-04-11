@@ -63,7 +63,7 @@ This is a repository for organizing articles related to nerual pathways. Most pa
 > #### 9) *"Layerwise Optimization by Gradient Decomposition for Continual Learning", CVPR 2021.* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Layerwise_Optimization_by_Gradient_Decomposition_for_Continual_Learning_CVPR_2021_paper.pdf)][[code]()]
 
 ## Search keyword
-a
+
 - Nerual Pathways
 - Self-supervised Learning
 
