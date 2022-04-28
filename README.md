@@ -45,7 +45,7 @@ This is a repository for organizing articles related to nerual pathways. Most pa
 
 > #### 1) *"PATHWAYS: ASYNCHRONOUS DISTRIBUTED DATAFLOW FOR ML"*, [[paper](https://arxiv.org/pdf/2203.12533.pdf)] 
 > #### 2) *"SkillNet: A Sparsely Activated Model for General-Purpose Natural Language Understanding", AAAI 2020| ICML'19 AutoML Workshop.* [[paper](https://arxiv.org/pdf/2203.03312.pdf)]
-
+> #### 2) *"Scaling Vision with Sparse Mixture of Experts"*, NeurIPS 2021. [[paper](https://arxiv.org/pdf/2106.05974.pdf)]
 
 
 
