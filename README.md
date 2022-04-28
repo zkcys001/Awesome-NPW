@@ -44,13 +44,17 @@ This is a repository for organizing articles related to nerual pathways. Most pa
 ## 2. Neural Pathway
 
 > #### 1) *"PATHWAYS: ASYNCHRONOUS DISTRIBUTED DATAFLOW FOR ML"*, [[paper](https://arxiv.org/pdf/2203.12533.pdf)] 
+> #### 2) *"SkillNet: A Sparsely Activated Model for General-Purpose Natural Language Understanding", AAAI 2020| ICML'19 AutoML Workshop.* [[paper](https://arxiv.org/pdf/2203.03312.pdf)]
+
+
+
 
 [//]: # (https://mp.weixin.qq.com/s/l5QpGRxYZiGi4ymFWBcr2Q)
 
 
 ---
 
-## 3. Papers
+## 3. Related Papers
 
 > #### 1) *"Are Neural Nets Modular? Inspecting Functional Modularity Through Differentiable Weight Masks", ICLR 2021.* [[paper](https://arxiv.org/abs/2010.02066)][[code](https://github.com/RobertCsordas/modules)][[poster](https://people.idsia.ch/~csordas/poster_iclr2021.pdf)]
 > #### 2) *"Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?", ICML 2021.* [[paper](https://arxiv.org/pdf/2106.02890.pdf)]
@@ -61,7 +65,7 @@ This is a repository for organizing articles related to nerual pathways. Most pa
 > #### 7) *"Random Path Selection for Incremental Learning", NIPS 2019.* [[paper](https://papers.nips.cc/paper/2019/hash/83da7c539e1ab4e759623c38d8737e9e-Abstract.html)][[code](https://github.com/brjathu/RPSnet)]
 > #### 8) *"PathNet: Evolution Channels Gradient Descent in Super Neural Networks", 2017.* [[paper](https://arxiv.org/pdf/1701.08734.pdf)][[code](https://github.com/kimhc6028/pathnet-pytorch)]
 > #### 9) *"Layerwise Optimization by Gradient Decomposition for Continual Learning", CVPR 2021.* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Layerwise_Optimization_by_Gradient_Decomposition_for_Continual_Learning_CVPR_2021_paper.pdf)][[code]()]
-> #### 10) *"InstaNAS: Instance-aware Neural Architecture Search", AAAI 2020| ICML2019 AutoML Workshop.* [[paper](https://arxiv.org/abs/1811.10201)][[code](https://github.com/AnjieCheng/InstaNAS)][[project](https://hubert0527.github.io/InstaNAS/)]
+> #### 10) *"InstaNAS: Instance-aware Neural Architecture Search", AAAI 2020| ICML'19 AutoML Workshop.* [[paper](https://arxiv.org/abs/1811.10201)][[code](https://github.com/AnjieCheng/InstaNAS)][[project](https://hubert0527.github.io/InstaNAS/)]
 
 ## Search keyword
 
